@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oSethoum
-- 👀 I’m interested in React Go Typescript 
+- 👀 I’m interested in React Go Typescript And GraphQL
 - 💞️ I’m looking to collaborate on Opensource Projects
 
 <!---
